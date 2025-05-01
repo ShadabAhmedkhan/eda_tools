@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+ydata-profiling
+pdfkit
+python-multipart
